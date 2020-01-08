@@ -1,0 +1,1 @@
+note taking app using express to accept posts containing text which can be managed using CRUD, I didn't get very far.
